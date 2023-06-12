@@ -1,0 +1,170 @@
+h1{
+    font-family: 'Poppins', sans-serif;
+    color: white;
+    font-size: 3rem;
+    line-height: 1.5;
+}
+
+p{
+    color: #8f8f8f;
+}
+
+.app-pic{
+    width: 60%;
+}
+
+
+.container-fluid{
+    padding: 3% 15%;
+}
+
+#title{
+    background-color: #1B2430;
+    margin: 0;
+}
+
+/* navigation bar */
+.navbar-brand{
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 2.5rem;
+}
+
+.nav-item{
+    padding: 0 20px 0 20px;
+}
+
+.nav-link{
+    font-weight: 10px;
+}
+
+.navbar{
+    margin-bottom: 8%;
+    padding-left: 0;
+}
+
+/* download button */
+.download-button{
+    margin: 5% 3% 5% 0;
+}
+
+/* features */
+#features{
+    text-align: center;
+    padding: 9% 15% 3% 15%;
+}
+
+.features-header{
+    font-size: 1.5rem;
+    font-family: 'Merriweather', serif;
+    font-weight:bold ;
+    margin-top: 9%;
+}
+
+.features-box{
+    padding: 0 5% 0 5%;
+    margin-bottom: 7%;
+}
+
+.card{
+    margin-top: 15px;
+}
+
+.multi-city-div{
+    margin-bottom: 16px;
+}
+
+.fa-4x:hover{
+    color: rgb(88, 76, 76);
+}
+
+.who:hover{
+    color: aliceblue;
+}
+
+
+/* testimoniatls */
+
+#testimonials{
+    background-color: #1B2430 ;
+    text-align: center;
+    color: #ffff;
+    padding: 10% 15% 5% 15%;
+}
+
+.testimonials-header{
+    font-family: 'Merriweather', serif;
+    font-weight: bolder;
+    font-size: 2rem;
+    width: 80%;
+    margin: auto;
+}
+
+.newspaper{
+    text-align: right;
+    font-size: 1rem;
+}
+
+/* press */
+
+#press{
+    background-color: #1B2430 ;
+    text-align: center;
+    padding: 0 15% 3% 15%;
+}
+
+.press-icon{
+    width: 14%;
+    margin: 100px 20px 30px 20px;
+}
+
+/* preiccing */
+
+#pricing{
+    text-align: center;
+    padding: 5% 15%;
+}
+.card-services{
+    text-align: center;
+}
+
+.card-row{
+    padding-top: 3%;
+}
+
+.services-icon{
+    width: 70%;
+}
+
+/* <!-- Call to Action --> */
+
+#cta{
+    background-color: #1B2430;
+    font-family: 'Poppins', sans-serif;
+    color: #ffff;
+    padding: 11% 15% 7% 15%;
+    text-align: center;
+}
+
+.slogan{
+    margin-bottom: 25px;
+}
+
+/* footer */
+#footer{
+    text-align: center;
+    padding:  7% 15% ;
+}
+
+.footer-icon{
+    padding: 20px 10px;
+}
+
+
+
+
+
+@media (max-width: 1010px){
+    .title-pic-heading{
+        text-align: center;
+    }
+}
